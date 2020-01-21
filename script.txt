@@ -1,0 +1,28 @@
+{Matthew}
+Hey there. Hello.
+{Joanna}
+Hello!
+{Matthew}
+How's life?
+{Joanna}
+It's ok!
+{Matthew}
+Great to hear.
+{Joanna}
+Did you know you can create pauses in the script?
+{Matthew}
+No! How!
+{Joanna}
+Just add an L, M, or S with two dashes.
+{Joanna}
+Here's a small --s-- pause
+{Joanna}
+And a medium --m-- pause
+{Joanna}
+And a longer --l-- pause
+{Matthew}
+Cool
+{Joanna}
+You can also use your own <phoneme alphabet="ipa" ph="pɪˈkɑːn">S S M L</phoneme>tags in the script.
+{Matthew}
+Fun!
